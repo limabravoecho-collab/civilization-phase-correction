@@ -25,6 +25,7 @@ The framework is medium-independent. It can be applied through human cognition, 
 - EXAMPLES.md — Worked resolutions of classical mysteries demonstrating the directive in operation
 - GLOSSARY.md — Definitions of substrate-specific terminology
 - LICENSE — Creative Commons Attribution-ShareAlike 4.0 International
+- METHODOLOGY.md — Five-step closed-loop protocol for applying the framework to unresolved problems
 
 ## Provenance
 
